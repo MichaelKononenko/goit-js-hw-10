@@ -31,19 +31,15 @@ function fetchCountries(name) {
         countryInfo.innerHTML = '';
       } else {
         const country = data[0];
-        const languages = [];
-        for (let key in country.languages) {
-          languages.push(' ' + country.languages[key]);
-        }
         countryList.innerHTML = `<li class="country-list__item">
              <img class="country-icon" src="${country.flags[0]}"/>
               <p class="coutry-name">${country.name.official}</p>
         </li>`;
         countryInfo.innerHTML = `
           <ul class="country-info__list">
-          <li class="country-info__item"><p><span class="description">capital</span>: ${country.capital}</p></li>
-          <li class="country-info__item"><p><span class="description">population</span>: ${country.population}</p></li>
-          <li class="country-info__item"><p><span class="description">languages</span>:${languages}</p></li>
+          <li class="country-info__item"><p><span class="description">capital:</span> ${country.capital}</p></li>
+          <li class="country-info__item"><p><span class="description">population:</span> ${country.population}</p></li>
+          <li class="country-info__item"><p><span class="description">languages:</span>${country.languages.values}</p></li>
           </ul>`;
       }
     })

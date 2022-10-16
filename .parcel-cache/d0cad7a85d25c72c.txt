@@ -72,7 +72,7 @@
 98C:\Users\micha\OneDrive\Go_it\goit-js-hw-10\node_modules\caniuse-lite\data\features\videotracks.js133101674718218525 0
 84C:\Users\micha\OneDrive\Go_it\goit-js-hw-10\node_modules\@parcel\bundler-default\lib133101674688516675 1
 72C:\Users\micha\OneDrive\Go_it\goit-js-hw-10\node_modules\yaml\index.d.ts133101674703117894 0
-68C:\Users\micha\OneDrive\Go_it\goit-js-hw-10\src\js\fetchCountries.js133103919784263595 0
+68C:\Users\micha\OneDrive\Go_it\goit-js-hw-10\src\js\fetchCountries.js133104182430005923 0
 56C:\Users\micha\OneDrive\Go_it\goit-js-hw-10\node_modules133101696066410632 1
 73C:\Users\micha\OneDrive\Go_it\goit-js-hw-10\node_modules\json5\LICENSE.md133101674696102251 0
 81C:\Users\micha\OneDrive\Go_it\goit-js-hw-10\node_modules\node-gyp-build\README.md133101674693094129 0
@@ -84,7 +84,7 @@
 80C:\Users\micha\OneDrive\Go_it\goit-js-hw-10\node_modules\@parcel\optimizer-image133101674706445851 1
 85C:\Users\micha\OneDrive\Go_it\goit-js-hw-10\node_modules\fast-glob\out\utils\array.js133101674688946399 0
 65C:\Users\micha\OneDrive\Go_it\goit-js-hw-10\node_modules\svgo\lib133101674705066706 1
-48C:\Users\micha\OneDrive\Go_it\goit-js-hw-10\dist133103920303543432 1
+48C:\Users\micha\OneDrive\Go_it\goit-js-hw-10\dist133104182432354478 1
 112C:\Users\micha\OneDrive\Go_it\goit-js-hw-10\node_modules\posthtml-include\node_modules\posthtml-parser\readme.md133101674692594426 0
 81C:\Users\micha\OneDrive\Go_it\goit-js-hw-10\node_modules\@parcel\watcher\index.js133101674700029810 0
 87C:\Users\micha\OneDrive\Go_it\goit-js-hw-10\node_modules\escape-string-regexp\readme.md133101674690645644 0
@@ -108,7 +108,7 @@
 90C:\Users\micha\OneDrive\Go_it\goit-js-hw-10\node_modules\fast-glob\out\readers\stream.d.ts133101674702428326 0
 81C:\Users\micha\OneDrive\Go_it\goit-js-hw-10\node_modules\terser\tools\terser.d.ts133101674704696915 0
 110C:\Users\micha\OneDrive\Go_it\goit-js-hw-10\node_modules\@msgpackr-extract\msgpackr-extract-win32-x64\index.js133101674687297445 0
-56C:\Users\micha\OneDrive\Go_it\goit-js-hw-10\package.json133101696067489962 0
+56C:\Users\micha\OneDrive\Go_it\goit-js-hw-10\package.json133103950539942641 0
 73C:\Users\micha\OneDrive\Go_it\goit-js-hw-10\node_modules\svgo\lib\svgo.js133101674704736897 0
 71C:\Users\micha\OneDrive\Go_it\goit-js-hw-10\node_modules\lmdb-win32-x64133101674699350248 1
 80C:\Users\micha\OneDrive\Go_it\goit-js-hw-10\node_modules\posthtml-parser\license133101674687427343 0
@@ -180,7 +180,7 @@
 61C:\Users\micha\OneDrive\Go_it\goit-js-hw-10\node_modules\.bin133101674719527706 1
 86C:\Users\micha\OneDrive\Go_it\goit-js-hw-10\node_modules\source-map-js\source-map.d.ts133101674697061652 0
 62C:\Users\micha\OneDrive\Go_it\goit-js-hw-10\node_modules\clone133101674692414539 1
-67C:\Users\micha\OneDrive\Go_it\goit-js-hw-10\dist\index.77a9bc14.css133103918959782755 0
+67C:\Users\micha\OneDrive\Go_it\goit-js-hw-10\dist\index.77a9bc14.css133104182377513544 0
 66C:\Users\micha\OneDrive\Go_it\goit-js-hw-10\node_modules\yaml\dist133101674702478300 1
 73C:\Users\micha\OneDrive\Go_it\goit-js-hw-10\node_modules\terser\README.md133101674704566996 0
 93C:\Users\micha\OneDrive\Go_it\goit-js-hw-10\node_modules\css-tree\lib\syntax\node\Selector.js133101674706036084 0
@@ -1444,7 +1444,7 @@
 101C:\Users\micha\OneDrive\Go_it\goit-js-hw-10\node_modules\parcel-reporter-clean-dist\src\opsLimiter.js133101674695642532 0
 84C:\Users\micha\OneDrive\Go_it\goit-js-hw-10\node_modules\flatpickr\dist\l10n\bn.d.ts133101674708774390 0
 91C:\Users\micha\OneDrive\Go_it\goit-js-hw-10\node_modules\source-map-js\lib\binary-search.js133101674691974834 0
-59C:\Users\micha\OneDrive\Go_it\goit-js-hw-10\dist\index.html133103918959782755 0
+59C:\Users\micha\OneDrive\Go_it\goit-js-hw-10\dist\index.html133104182377813356 0
 89C:\Users\micha\OneDrive\Go_it\goit-js-hw-10\node_modules\lmdb\node_modules\node-addon-api133101674697971100 1
 90C:\Users\micha\OneDrive\Go_it\goit-js-hw-10\node_modules\source-map-js\lib\mapping-list.js133101674692634404 0
 101C:\Users\micha\OneDrive\Go_it\goit-js-hw-10\node_modules\@parcel\runtime-js\src\helpers\bundle-url.js133101674693024158 0
@@ -2467,7 +2467,7 @@
 75C:\Users\micha\OneDrive\Go_it\goit-js-hw-10\node_modules\is-json\.npmignore133101674688316796 0
 88C:\Users\micha\OneDrive\Go_it\goit-js-hw-10\node_modules\caniuse-lite\data\regions\BG.js133101674703547631 0
 84C:\Users\micha\OneDrive\Go_it\goit-js-hw-10\node_modules\flatpickr\dist\l10n\my.d.ts133101674709783780 0
-70C:\Users\micha\OneDrive\Go_it\goit-js-hw-10\dist\index.975ef6c8.js.map133103920303533438 0
+70C:\Users\micha\OneDrive\Go_it\goit-js-hw-10\dist\index.975ef6c8.js.map133104182432334477 0
 76C:\Users\micha\OneDrive\Go_it\goit-js-hw-10\node_modules\is-json\.travis.yml133101674692374563 0
 100C:\Users\micha\OneDrive\Go_it\goit-js-hw-10\node_modules\@parcel\reporter-cli\lib\CLIReporter.js.map133101674698250925 0
 72C:\Users\micha\OneDrive\Go_it\goit-js-hw-10\node_modules\is-json\LICENSE133101674690585674 0
@@ -4407,7 +4407,7 @@
 118C:\Users\micha\OneDrive\Go_it\goit-js-hw-10\node_modules\@parcel\package-manager\test\fixtures\has-a-not-yet-installed133101674701438951 1
 82C:\Users\micha\OneDrive\Go_it\goit-js-hw-10\node_modules\@parcel\core\src\index.js133101674704207227 0
 90C:\Users\micha\OneDrive\Go_it\goit-js-hw-10\node_modules\@parcel\reporter-cli\src\utils.js133101674696072266 0
-66C:\Users\micha\OneDrive\Go_it\goit-js-hw-10\dist\index.975ef6c8.js133103920303513442 0
+66C:\Users\micha\OneDrive\Go_it\goit-js-hw-10\dist\index.975ef6c8.js133104182432254535 0
 96C:\Users\micha\OneDrive\Go_it\goit-js-hw-10\node_modules\@parcel\reporter-cli\lib\CLIReporter.js133101674693603797 0
 75C:\Users\micha\OneDrive\Go_it\goit-js-hw-10\node_modules\@parcel\plugin\lib133101674688446715 1
 90C:\Users\micha\OneDrive\Go_it\goit-js-hw-10\node_modules\@parcel\plugin\src\PluginAPI.d.ts133101674692094744 0
@@ -5016,7 +5016,7 @@
 70C:\Users\micha\OneDrive\Go_it\goit-js-hw-10\node_modules\.bin\svgo.ps1133101674719547698 0
 72C:\Users\micha\OneDrive\Go_it\goit-js-hw-10\node_modules\.bin\terser.cmd133101674719547698 0
 72C:\Users\micha\OneDrive\Go_it\goit-js-hw-10\node_modules\.bin\terser.ps1133101674719557695 0
-71C:\Users\micha\OneDrive\Go_it\goit-js-hw-10\dist\index.77a9bc14.css.map133103918959782755 0
+71C:\Users\micha\OneDrive\Go_it\goit-js-hw-10\dist\index.77a9bc14.css.map133104182377523535 0
 76C:\Users\micha\OneDrive\Go_it\goit-js-hw-10\assets\actions-config-step-1.png133090045240000000 0
 67C:\Users\micha\OneDrive\Go_it\goit-js-hw-10\assets\how-it-works.png133090045240000000 0
 68C:\Users\micha\OneDrive\Go_it\goit-js-hw-10\assets\repo-settings.png133090045240000000 0
